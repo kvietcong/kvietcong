@@ -36,3 +36,9 @@ Minecraft
 - #### ☕ Java
 
 	- The quintessential College CS language
+
+## 🔌 Connect with me
+
+- Email: lecongkhoiviet@gmail.com
+- Discord: Vel0ciTy#3728
+- Twitter: @kvietcong
