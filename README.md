@@ -15,30 +15,13 @@ Minecraft
 
 ## 📚 Some Stuff I've Learned
 
-- #### 🐍 Python
-
-	- Libraries: SciKitLearn, Pandas, Seaborn/MatPlotLib
-	- Jupyter Notebooks/Google Collabs
-
-- #### ☕📜 JavaScript
-
-	- ReactJS (with Hooks), ExpressJS
-
-- #### 🎼 C#
-
-	- Unity3D Game Engine
-
-- #### 💾 SQL/NoSQL
-	
-	- PostgreSQL, SQLite
-	- MongoDB, Redis
-
-- #### ☕ Java
-
-	- The quintessential College CS language
+- **🐍 Python:** SciKitLearn, Pandas, Seaborn/MatPlotLib,
+Jupyter Notebooks/Google Collabs
+- **☕📜 JavaScript:** ReactJS (with Hooks), ExpressJS
+- **🎼 C#:** Unity3D Game Engine
+- **💾 SQL/NoSQL:** PostgreSQL, SQLite, MongoDB, Redis
+- **☕ Java:** The quintessential College CS language
 
 ## 🔌 Connect with me
-
-- Email: lecongkhoiviet@gmail.com
-- Discord: Vel0ciTy#3728
-- Twitter: @kvietcong
+**Email:** lecongkhoiviet@gmail.com, **Discord:** Vel0ciTy#3728,
+**Twitter:** @kvietcong
