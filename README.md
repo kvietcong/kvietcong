@@ -13,6 +13,12 @@ Minecraft
 - #### .NET Ecosystem (with C#)
 - #### Socket Web Programming
 
+## 🥇 Goals before 2021
+
+- #### Have a pull request be accepted on a project not by me lol
+- #### Find a cool internship for summer 2021
+- #### Create something useful
+
 ## 📚 Some Stuff I've Learned
 
 - **🐍 Python:** SciKitLearn, Pandas, Seaborn/MatPlotLib,
