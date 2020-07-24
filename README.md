@@ -12,6 +12,7 @@ Minecraft
 
 - #### .NET Ecosystem (with C#)
 - #### Socket Web Programming
+- #### Vim (lol)
 
 ## 🥇 Goals before 2021
 
