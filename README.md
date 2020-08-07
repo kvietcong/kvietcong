@@ -8,12 +8,6 @@ Algorithms and Data Structures. I also love to play games and some of
 my favorites are: osu!, CS:GO, Age of Empires II, Risk of Rain 2, and
 Minecraft
 
-## 🌱 What I'm currently learning
-
-- #### .NET Ecosystem (with C#)
-- #### Socket Web Programming
-- #### Vim (lol)
-
 ## 🥇 Goals before 2021
 
 - #### Have a pull request be accepted on a project not by me lol
