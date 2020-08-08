@@ -11,7 +11,7 @@ Minecraft
 ## 🥇 Goals before 2021
 
 - #### Have a pull request be accepted on a project not by me lol
-- #### Find a cool internship for summer 2021
+- #### Find a cool internship for Summer 2021
 - #### Create something useful
 
 ## 📚 Some Stuff I've Learned
