@@ -13,6 +13,7 @@ Minecraft
 - #### Have a pull request be accepted on a project not by me lol
 - #### Participate in a Hackathon
 - #### Find a cool internship for Summer 2021
+- #### Learn how to use Vim, AwesomeWM, and Arch
 - #### Create something useful
 
 ## 📚 Some Stuff I've Learned
