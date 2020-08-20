@@ -22,7 +22,7 @@ Minecraft
 Jupyter Notebooks/Google Collabs
 - **☕📜 JavaScript:** ReactJS (with Hooks), ExpressJS
 - **🎼 C#:** Unity3D Game Engine
-- **💾 SQL/NoSQL:** PostgreSQL, SQLite, MongoDB, Redis
+- **💾 SQL/NoSQL:** PostgreSQL, SQLite, MongoDB, Firestore, Redis
 - **☕ Java:** The quintessential College CS language
 
 ## 🔌 Connect with me
