@@ -1,12 +1,12 @@
-# 👋 Hi there, my name's KV
+# 👋 Hi there, my name's KV Le
 
 ## 👨🏻‍💻 About me:
 
-Hi there, I'm Sophomore in University pursuing Computer Science.
-I always want to learn more whether it be Software/Web Development or
+Hi there, I'm University Sophomore pursuing Computer Science.
+I always want to learn more, whether it be Software/Web Development or
 Algorithms and Data Structures. I also love to play games and some of
 my favorites are: osu!, CS:GO, Age of Empires II, Risk of Rain 2, and
-Minecraft
+Minecraft.
 
 ## 🥇 Goals before 2021
 
