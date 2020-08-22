@@ -10,20 +10,25 @@ Minecraft.
 
 ## 🥇 Goals before 2021
 
-- #### Have a pull request be accepted on a project not by me lol
+- #### Have a pull request be accepted on a project not by me 😅
+- #### Learn Go Lang (by Google)
 - #### ~~Participate in a Hackathon~~
 - #### Find a cool internship for Summer 2021
+- #### Learn about Websockets/Real-time Web communication (SocketIO?)
+- #### Look into Flutter and Dart
+- #### Keep up with and hype .NET 5.0 release lol
 - #### Learn how to use Vim, AwesomeWM, and Arch
 - #### Create something useful
 
 ## 📚 Some Stuff I've Learned
 
 - **🐍 Python:** SciKitLearn, Pandas, Seaborn/MatPlotLib,
-Jupyter Notebooks/Google Collabs
-- **☕📜 JavaScript:** ReactJS (with Hooks), ExpressJS
-- **🎼 C#:** Unity3D Game Engine
-- **💾 SQL/NoSQL:** PostgreSQL, SQLite, MongoDB, Firestore, Redis
-- **☕ Java:** The quintessential College CS language
+Jupyter Notebooks/Google Collabs, NumPy
+- **☕📜 JavaScript:** ReactJS (with Hooks), ExpressJS, PassportJS
+- **🎼 C#:** Unity3D Game Engine, ASP.NET (MVC), Razor Pages
+- **💾 SQL/NoSQL:** PostgreSQL, SQLite, MongoDB, Firestore, DynamoDB,
+Redis
+- **☕ Java:** The quintessential Computer Science language for College
 
 ## 🔌 Connect with me
 **Email:** lecongkhoiviet@gmail.com, **Discord:** Vel0ciTy#3728,
