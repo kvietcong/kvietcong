@@ -30,6 +30,7 @@ Redis
 ## 📅 Interesting things I will do soon:tm:
 
 - Learn Go Lang (by Google)
+- Get decent at UI/UX
 - Look into Flutter and Dart
 
 ## 🔌 Connect with me
