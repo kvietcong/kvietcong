@@ -14,7 +14,7 @@ Minecraft.
 - ~~Participate in a Hackathon~~
 - Get a cool internship for Summer 2021
 - Keep up with and hype .NET 5.0 release lol
-- Learn how to use Vim, AwesomeWM, and Arch
+- Improve Linux Sysadmin skills (and Unix skills in general)
 - Create something useful
 
 ## 📚 Some Stuff I've Learned
