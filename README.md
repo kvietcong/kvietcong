@@ -4,7 +4,7 @@
 
 Hi there, I'm University Sophomore pursuing Computer Science.
 I always want to learn more, whether it be Software/Web Development or
-Algorithms and Data Structures. I also love to play games and some of
+Algorithms and Data Structures. I also love to play games! some of
 my favorites are: osu!, CS:GO, Age of Empires II, Risk of Rain 2, and
 Minecraft.
 
@@ -12,7 +12,7 @@ Minecraft.
 
 - Have a pull request be accepted on a project not by me 😅
 - Get a cool internship for Summer 2021
-- Keep up with and hype .NET 5.0 release lol
+- Keep up with and hype .NET 5.0 release lol (Maui is Hype!)
 - Get good at Leetcode so I don't bomb coding tests 🤔
 - Improve Sysadmin/Networking/Unix/IT skills
 - Create an actual portfolio/personal site
@@ -30,7 +30,8 @@ Redis
 
 ## 📅 Interesting things I will do soon:tm:
 
-- Learn Go Lang (by Google)
+- Learn Go
+- Learn Rust
 - Get decent at UI/UX
 - Look into Flutter and Dart
 
