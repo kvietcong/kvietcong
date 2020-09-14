@@ -32,6 +32,7 @@ Redis
 
 - Learn Go
 - Learn Rust
+- Learn Haskell (or some type of functional programming language)
 - Get decent at UI/UX
 - Look into Flutter and Dart
 
