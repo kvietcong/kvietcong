@@ -35,6 +35,7 @@ Redis
 - Learn Haskell or Clojure (or some type of functional programming language)
 - Get decent at UI/UX
 - Look into Flutter and Dart
+- Look into Svelte (Cool video on it [here](https://youtu.be/AdNJ3fydeao))
 
 ## 🔌 Connect with me
 **Email:** lecongkhoiviet@gmail.com, **Discord:** Vel0ciTy#3728,
