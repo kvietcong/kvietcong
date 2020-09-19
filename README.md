@@ -10,12 +10,11 @@ Minecraft.
 
 ## 🥇 Main Goals
 
-- Have a pull request be accepted on a project not by me 😅
 - Get a cool internship for Summer 2021
 - Keep up with and hype .NET 5.0 release lol (Maui is Hype!)
-- Get good at Leetcode so I don't bomb coding tests 🤔
 - Improve Sysadmin/Networking/Unix/IT skills
 - Create an actual portfolio/personal site
+- ~~Have a pull request be accepted on a project not by me 😅~~
 - ~~Participate in a Hackathon~~
 
 ## 📚 Some Stuff I've Learned
