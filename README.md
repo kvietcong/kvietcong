@@ -21,20 +21,21 @@ Minecraft.
 
 - **🐍 Python:** SciKitLearn, Pandas, Seaborn/MatPlotLib,
 Jupyter Notebooks/Google Collabs, NumPy
-- **☕📜 JavaScript:** ReactJS (with Hooks), ExpressJS, WebSockets (w/ SocketIO)
-- **🎼 C#:** Unity3D Game Engine, ASP.NET (MVC), Razor Pages
-- **💾 SQL/NoSQL:** PostgreSQL, SQLite, MongoDB, Firestore, DynamoDB,
-Redis
+- **☕📜 JavaScript:** ReactJS (with Hooks), Node/ExpressJS, JQuery
+- **🎼 C#:** Unity3D Game Engine, ASP.NET, Razor Pages
+- **💾 SQL/NoSQL:** PostgreSQL, SQLite, MongoDB, DynamoDB
 - **☕ Java:** The quintessential Computer Science language for College
+- **⚙ Other Technologies:** Firebase, Bootstrap, 3DS Max,
+Adobe Premiere Pro, DaVinci Resolve
 
 ## 📅 Interesting things I will do soon:tm:
 
-- Learn Go
 - Learn Rust
+- Learn Go
 - Learn Haskell or Clojure (or some type of functional programming language)
+- Look into Svelte (Cool video on it [here](https://youtu.be/AdNJ3fydeao))
 - Get decent at UI/UX
 - Look into Flutter and Dart
-- Look into Svelte (Cool video on it [here](https://youtu.be/AdNJ3fydeao))
 
 ## 🔌 Connect with me
 **Email:** lecongkhoiviet@gmail.com, **Discord:** Vel0ciTy#3728,
