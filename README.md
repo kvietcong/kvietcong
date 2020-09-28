@@ -34,7 +34,8 @@ Adobe Premiere Pro, DaVinci Resolve
 - Learn Go
 - Learn Haskell or Clojure (or some type of functional programming language)
 - Look into Svelte (Cool video on it [here](https://youtu.be/AdNJ3fydeao))
-- Get decent at UI/UX (Styling Frameworks: Sass, TailwindCSS, Bulma)
+- Get decent at UI/UX (Styling Frameworks: Sass, TailwindCSS, Bulma,
+or something else cool)
 - Look into Flutter and Dart
 
 ## 🔌 Connect with me
