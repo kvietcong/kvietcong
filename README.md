@@ -28,9 +28,13 @@ Jupyter Notebooks/Google Collabs, NumPy
 - **⚙ Other Technologies:** Firebase, Bootstrap, 3DS Max,
 Adobe Premiere Pro, DaVinci Resolve
 
+## 🎇Things I'm Doing Right Now
+
+- Learning Rust
+- Fall 2020 Internship working with ASP.NET Core
+
 ## 📅 Interesting things I will do soon:tm:
 
-- Learn Rust
 - Learn Go
 - Learn Haskell or Clojure (or some type of functional programming language)
 - Look into Svelte (Cool video on it [here](https://youtu.be/AdNJ3fydeao))
