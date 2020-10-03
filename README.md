@@ -31,6 +31,7 @@ Adobe Premiere Pro, DaVinci Resolve
 ## 🎇Things I'm Doing Right Now
 
 - Learning Rust
+(Starting with a [simulation](https://github.com/derpyasianpanda/rusty_planets))
 - Fall 2020 Internship working with ASP.NET Core and React Native
 
 ## 📅 Interesting things I will do soon:tm:
