@@ -12,7 +12,7 @@ Minecraft.
 
 - Get a cool internship for Summer 2021
 - Keep up with and hype .NET 5.0 release lol (Maui is Hype!)
-- Improve Sysadmin/Networking/Unix/IT skills
+- Keep up with and hype [WebAssembly](https://webassembly.org/)!
 - Create an actual portfolio/personal site
 - ~~Have a pull request be accepted on a project not by me 😅~~
 - ~~Participate in a Hackathon~~
@@ -36,13 +36,14 @@ Adobe Premiere Pro, DaVinci Resolve
 
 ## 📅 Interesting things I will do soon:tm:
 
-- Learn Go
-- Learn Haskell or Clojure (or some type of functional programming language)
+- Learn Go, a functional language (Haskell, Clojure, Elm, etc)
 - Look into Svelte (Cool video on it [here](https://youtu.be/AdNJ3fydeao))
 - Get decent at UI/UX (Styling Frameworks: Sass, TailwindCSS, Bulma,
 or something else cool)
 - Look into Flutter and Dart
 
 ## 🔌 Connect with me
-**Email:** lecongkhoiviet@gmail.com, **Discord:** Vel0ciTy#3728,
-**Twitter:** @kvietcong
+**Email:** lecongkhoiviet@gmail.com,
+**LinkedIn**:
+[https://www.linkedin.com/in/kvietcongle/](https://www.linkedin.com/in/kvietcongle/),
+**Twitter:** @kvietcong, **Discord:** Vel0ciTy#3728
