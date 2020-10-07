@@ -36,7 +36,7 @@ Adobe Premiere Pro, DaVinci Resolve
 
 ## 📅 Interesting things I will do soon:tm:
 
-- Learn Go, a functional language (Haskell, Clojure, Elm, etc)
+- Learn Go and a functional language (Haskell, Clojure, Elm, etc)
 - Look into Svelte (Cool video on it [here](https://youtu.be/AdNJ3fydeao))
 - Get decent at UI/UX (Styling Frameworks: Sass, TailwindCSS, Bulma,
 or something else cool)
