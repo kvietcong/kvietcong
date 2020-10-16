@@ -25,14 +25,14 @@ Jupyter Notebooks/Google Collabs, NumPy
 - **🎼 C#:** Unity3D Game Engine, ASP.NET, Razor Pages
 - **💾 SQL/NoSQL:** PostgreSQL, SQLite, MongoDB, DynamoDB
 - **☕ Java:** The quintessential Computer Science language for College
+- **🦀 Rust:** Nannou, Ownership/Borrowing System
 - **⚙ Other Technologies:** Firebase, Bootstrap, 3DS Max,
 Adobe Premiere Pro, DaVinci Resolve
 
 ## 🎇Things I'm Doing Right Now
 
-- Learning Rust
-(Starting with a [simulation](https://github.com/derpyasianpanda/rusty_planets))
 - Fall 2020 Internship working with ASP.NET Core and React Native
+- Learning how to draw and produce music electronically
 
 ## 📅 Interesting things I will do soon:tm:
 
