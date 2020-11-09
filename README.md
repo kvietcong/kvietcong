@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 About me:
 
-Hi there, I'm University Sophomore pursuing Computer Science.
+Hi there, I'm University undergraduate pursuing Computer Science.
 I always want to learn more, whether it be Software/Web Development or
 Algorithms and Data Structures. I love to play Tennis but also video-games! Some of
 my favorites are: osu!, CS:GO, Age of Empires II, Risk of Rain 2, and
