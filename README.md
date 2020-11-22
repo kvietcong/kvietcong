@@ -2,11 +2,10 @@
 
 ## 👨🏻‍💻 About me:
 
-Hi there, I'm University undergraduate pursuing Computer Science.
-I always want to learn more, whether it be Software/Web Development or
-Algorithms and Data Structures. I love to play Tennis but also video-games! Some of
-my favorites are: osu!, CS:GO, Age of Empires II, Risk of Rain 2, and
-Minecraft.
+I always want to learn more, whether it be Software/Web Development, Machine Learning,
+or Algorithms and Data Structures. Some of my favorite video games are: osu!, CS:GO,
+Age of Empires II, Risk of Rain 2, and Minecraft. I also love to play tennis and stare
+into starlit skies 🌠.
 
 ## 🎇Things I'm Doing Right Now
 
@@ -43,6 +42,8 @@ Adobe Premiere Pro, DaVinci Resolve
 - Get decent at UI/UX (Styling Frameworks: Sass, TailwindCSS, Bulma,
 or something else cool)
 - Look into Flutter and Dart for app development
+- Learn more about Machine Learning and how to utilize PyTorch 🔥
+- Learn about embedded systems and system adminstration
 
 ## 🔌 Connect with me
 **Email:** lecongkhoiviet@gmail.com,
