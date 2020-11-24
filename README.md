@@ -10,7 +10,7 @@ into starlit skies 🌠.
 ## 🎇Things I'm Doing Right Now
 
 - Fall 2020 Internship working with ASP.NET Core and React Native
-- Learning about Machine Learning and how to utilize PyTorch 🔥
+- Learning about Machine Learning with a focus on Deep Learning/Neural Nets (also PyTorch 🔥)
 - Learning how to draw and produce music electronically
 
 ## 🥇 Main Goals
