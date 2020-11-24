@@ -10,6 +10,7 @@ into starlit skies 🌠.
 ## 🎇Things I'm Doing Right Now
 
 - Fall 2020 Internship working with ASP.NET Core and React Native
+- Learning about Machine Learning and how to utilize PyTorch 🔥
 - Learning how to draw and produce music electronically
 
 ## 🥇 Main Goals
@@ -42,7 +43,6 @@ Adobe Premiere Pro, DaVinci Resolve
 - Get decent at UI/UX (Styling Frameworks: Sass, TailwindCSS, Bulma,
 or something else cool)
 - Look into Flutter and Dart for app development
-- Learn more about Machine Learning and how to utilize PyTorch 🔥
 - Learn about embedded systems and system adminstration
 
 ## 🔌 Connect with me
