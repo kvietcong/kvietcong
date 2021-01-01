@@ -7,16 +7,9 @@ or Algorithms and Data Structures. Some of my favorite video games are: osu!, CS
 Age of Empires II, Risk of Rain 2, and Minecraft. I also love to play tennis and stare
 into starlit skies 🌠.
 
-## 🎇Things I'm Doing Right Now
-
-- Fall 2020 Internship working with ASP.NET Core and React Native
-- Learning about Machine Learning with a focus on Deep Learning/Neural Nets (also PyTorch 🔥)
-- Learning how to draw and produce music electronically
-
 ## 🥇 Main Goals
 
-- Get a cool internship for Summer 2021
-- Keep up with and hype [WebAssembly](https://webassembly.org/)!
+- Get an internship for Summer 2021
 - Create an actual portfolio/personal site
 - ~~Have a pull request be accepted on a project not by me 😅~~
 - ~~Participate in a Hackathon~~
@@ -28,8 +21,8 @@ Jupyter Notebooks/Google Collabs, NumPy
 - **☕📜 JavaScript:** ReactJS (with Hooks), Node/ExpressJS, JQuery
 - **🎼 C#:** Unity3D Game Engine, ASP.NET, Razor Pages
 - **💾 SQL/NoSQL:** PostgreSQL, SQLite, SQL Server, MongoDB, DynamoDB
-- **🦀 Rust:** Nannou, Ownership/Borrowing System
 - **☕ Java:** The quintessential Computer Science language for College
+- **🦀 Rust:** Nannou
 - **⚙ Other Technologies:** Firebase, Bootstrap, 3DS Max,
 Adobe Premiere Pro, DaVinci Resolve
 
@@ -44,6 +37,8 @@ Adobe Premiere Pro, DaVinci Resolve
 or something else cool)
 - Look into Flutter and Dart for app development
 - Learn about embedded systems and system adminstration
+- Learn how to produce music
+- Learn how to draw
 
 ## 🔌 Connect with me
 **Email:** lecongkhoiviet@gmail.com,
