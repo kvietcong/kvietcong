@@ -4,8 +4,7 @@
 
 I always want to learn more, whether it be Software/Web Development, Machine Learning,
 or Algorithms and Data Structures. Some of my favorite video games are: osu!, CS:GO,
-Age of Empires II, Risk of Rain 2, and Minecraft. I also love to play tennis and stare
-into starlit skies 🌠.
+Age of Empires II, Risk of Rain 2, and Minecraft. I also love to play tennis 🎾
 
 ## 🥇 Main Goals
 
