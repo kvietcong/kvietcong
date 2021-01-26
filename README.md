@@ -22,7 +22,7 @@ Jupyter Notebooks/Google Collabs, NumPy
 - **💾 SQL/NoSQL:** PostgreSQL, SQLite, SQL Server, MongoDB, DynamoDB
 - **☕ Java:** The quintessential Computer Science language for College
 - **🦀 Rust:** Nannou
-- **⚙ Other Technologies:** Firebase, Bootstrap, 3DS Max,
+- **⚙ Other Technologies:** AWS hosting, Firebase, Bootstrap, 3DS Max,
 Adobe Premiere Pro, DaVinci Resolve
 
 ## 📅 Interesting things I will do soon:tm:
