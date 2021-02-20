@@ -10,18 +10,16 @@ Age of Empires II, Risk of Rain 2, and Minecraft. I also love to play tennis �
 
 - Get an internship for Summer 2021
 - Create an actual portfolio/personal site
-- ~~Have a pull request be accepted on a project not by me 😅~~
-- ~~Participate in a Hackathon~~
 
 ## 📚 Some Stuff I've Learned
 
 - **🐍 Python:** SciKitLearn, Pandas, Seaborn/MatPlotLib,
 Jupyter Notebooks/Google Collabs, NumPy
-- **☕📜 JavaScript:** ReactJS (with Hooks), Node/ExpressJS, JQuery
+- **☕📜 JavaScript:** ReactJS, Node/ExpressJS, JQuery
 - **🎼 C#:** Unity3D Game Engine, ASP.NET, Razor Pages
 - **💾 SQL/NoSQL:** PostgreSQL, SQLite, SQL Server, MongoDB, DynamoDB
-- **☕ Java:** The quintessential Computer Science language for College
 - **🦀 Rust:** Nannou
+- **☕ Java:** The quintessential Computer Science language for College
 - **⚙ Other Technologies:** AWS hosting, Firebase, Bootstrap, 3DS Max,
 Adobe Premiere Pro, DaVinci Resolve
 
@@ -29,8 +27,8 @@ Adobe Premiere Pro, DaVinci Resolve
 
 - Learn these programming languages
   - Go (by Google)
-  - Haskell or Clojure
-  - C and C++
+  - Haskell/Plutus
+  - C/C++
 - Look into Svelte (Cool video on it [here](https://youtu.be/AdNJ3fydeao))
 - Get decent at UI/UX (Styling Frameworks: Sass, TailwindCSS, Bulma,
 or something else cool)
