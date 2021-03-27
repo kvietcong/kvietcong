@@ -26,7 +26,7 @@ Adobe Premiere Pro, DaVinci Resolve
 ## 📅 Interesting things I will do soon:tm:
 
 - Learn these programming languages
-  - Go (by Google)
+  - Go
   - Haskell/Plutus
   - C/C++
 - Look into Svelte (Cool video on it [here](https://youtu.be/AdNJ3fydeao))
