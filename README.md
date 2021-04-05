@@ -18,9 +18,10 @@ Jupyter Notebooks/Google Collabs, NumPy
 - **☕📜 JavaScript:** ReactJS, Node/ExpressJS, JQuery
 - **🎼 C#:** Unity3D Game Engine, ASP.NET, Razor Pages
 - **💾 SQL/NoSQL:** PostgreSQL, SQLite, SQL Server, MongoDB, DynamoDB
-- **🦀 Rust:** Nannou
 - **☕ Java:** The quintessential Computer Science language for College
-- **⚙ Other Technologies:** AWS hosting, Firebase, Bootstrap, 3DS Max,
+- **⚙ Other**
+  - **⚛ Languages:** Rust, Lua, HTML/CSS, XML
+  - **⚡ Technologies:** AWS hosting, Firebase, Bootstrap, 3DS Max,
 Adobe Premiere Pro, DaVinci Resolve
 
 ## 📅 Interesting things I will do soon:tm:
@@ -34,6 +35,7 @@ Adobe Premiere Pro, DaVinci Resolve
 or something else cool)
 - Look into Flutter and Dart for app development
 - Learn about embedded systems and system adminstration
+- Contribute to the decentralized web (IPFS, DLT)
 - Learn how to produce music
 - Learn how to draw
 
