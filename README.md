@@ -40,7 +40,11 @@ or something else cool)
 - Learn how to draw
 
 ## 🔌 Connect with me
-**Email:** lecongkhoiviet@gmail.com,
+**Email:** lecongkhoiviet@gmail.com
+
 **LinkedIn**:
-[https://www.linkedin.com/in/kvietcongle/](https://www.linkedin.com/in/kvietcongle/),
+[https://www.linkedin.com/in/kvietcongle/](https://www.linkedin.com/in/kvietcongle/)
+
 **Twitter:** @kvietcong
+
+**Website**: [https://kvietcong.netlify.app/](https://kvietcong.netlify.app/)
