@@ -15,9 +15,9 @@ Age of Empires II, Risk of Rain 2, and Minecraft. I also love to play tennis �
 
 - **🐍 Python:** SciKitLearn, Pandas, Seaborn/MatPlotLib,
 Jupyter Notebooks/Google Collabs, NumPy
-- **☕📜 JavaScript:** ReactJS, Node/ExpressJS, JQuery
+- **☕📜 JavaScript:** ReactJS, Node/ExpressJS, JQuery, Svelte
 - **🎼 C#:** Unity3D Game Engine, ASP.NET, Razor Pages
-- **💾 SQL/NoSQL:** PostgreSQL, SQLite, SQL Server, MongoDB, DynamoDB
+- **💾 SQL/NoSQL:** PostgreSQL, SQLite, SQL Server, MongoDB
 - **☕ Java:** The quintessential Computer Science language for College
 - **⚙ Other**
   - **⚛ Languages:** Rust, Lua, HTML/CSS, XML
@@ -29,13 +29,14 @@ Adobe Premiere Pro, DaVinci Resolve
 - Learn these programming languages
   - Go
   - Haskell/Plutus
+  - Swift
+  - Dart
   - C/C++
-- Look into Svelte (Cool video on it [here](https://youtu.be/AdNJ3fydeao))
 - Get decent at UI/UX (Styling Frameworks: Sass, TailwindCSS, Bulma,
 or something else cool)
-- Look into Flutter and Dart for app development
+- Look into Flutter for app development
 - Learn about embedded systems and system adminstration
-- Contribute to the decentralized web (IPFS, DLT)
+- Contribute to the decentralized web (IPFS, DLT, etc.)
 - Learn how to produce music
 - Learn how to draw
 
