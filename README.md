@@ -20,7 +20,7 @@ Jupyter Notebooks/Google Collabs, NumPy
 - **💾 SQL/NoSQL:** PostgreSQL, SQLite, SQL Server, MongoDB
 - **☕ Java:** The quintessential Computer Science language for College
 - **⚙ Other**
-  - **⚛ Languages:** Rust, Lua, HTML/CSS, XML
+  - **⚛ Languages:** Rust, Haskell, Lua, HTML/CSS, XML
   - **⚡ Technologies:** AWS hosting, Firebase, Bootstrap, 3DS Max,
 Adobe Premiere Pro, DaVinci Resolve
 
@@ -28,7 +28,6 @@ Adobe Premiere Pro, DaVinci Resolve
 
 - Learn these programming languages
   - Go
-  - Haskell/Plutus
   - Swift
   - Dart
   - C/C++
