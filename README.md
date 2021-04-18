@@ -30,7 +30,8 @@ Adobe Premiere Pro, DaVinci Resolve
   - Go
   - Swift
   - Dart
-  - C/C++
+  - C
+  - C++
 - Get decent at UI/UX (Styling Frameworks: Sass, TailwindCSS, Bulma,
 or something else cool)
 - Look into Flutter for app development
