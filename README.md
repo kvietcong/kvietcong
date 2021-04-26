@@ -8,8 +8,7 @@ Age of Empires II, Risk of Rain 2, and Minecraft. I also love to play tennis �
 
 ## 🥇 Main Goals
 
-- Get an internship for Summer 2021
-- Create an actual portfolio/personal site
+- Get an internship for Spring 2021
 
 ## 📚 Some Stuff I've Learned
 
@@ -19,23 +18,21 @@ Jupyter Notebooks/Google Collabs, NumPy
 - **🎼 C#:** Unity3D Game Engine, ASP.NET, Razor Pages
 - **💾 SQL/NoSQL:** PostgreSQL, SQLite, SQL Server, MongoDB
 - **☕ Java:** The quintessential Computer Science language for College
-- **⚙ Other**
-  - **⚛ Languages:** Rust, Haskell, Lua, HTML/CSS, XML
+- **⚙ Others**
+  - **⚛ Languages:** Haskell, Lua, HTML/CSS, Rust
   - **⚡ Technologies:** AWS hosting, Firebase, Bootstrap, 3DS Max,
 Adobe Premiere Pro, DaVinci Resolve
 
 ## 📅 Interesting things I will do soon:tm:
 
 - Learn these programming languages
-  - Go
-  - Swift
-  - Dart
   - C
   - C++
+  - Go
+  - Swift
+  - Dart (for cross platform app development with Flutter)
 - Get decent at UI/UX (Styling Frameworks: Sass, TailwindCSS, Bulma,
 or something else cool)
-- Look into Flutter for app development
-- Learn about embedded systems and system adminstration
 - Contribute to the decentralized web (IPFS, DLT, etc.)
 - Learn how to produce music
 - Learn how to draw
