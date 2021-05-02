@@ -43,6 +43,6 @@ or something else cool)
 **LinkedIn**:
 [https://www.linkedin.com/in/kvietcongle/](https://www.linkedin.com/in/kvietcongle/)
 
-**Twitter:** @kvietcong
+**Twitter:** [@kvietcong](https://twitter.com/kvietcong)
 
 **Website**: [https://kvietcong.netlify.app/](https://kvietcong.netlify.app/)
