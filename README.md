@@ -30,9 +30,6 @@ Adobe Premiere Pro, DaVinci Resolve
   - C++
   - Go
   - Swift
-  - Dart (for cross platform app development with Flutter)
-- Get decent at UI/UX (Styling Frameworks: Sass, TailwindCSS, Bulma,
-or something else cool)
 - Contribute to the decentralized web (IPFS, DLT, etc.)
 - Learn how to produce music
 - Learn how to draw
