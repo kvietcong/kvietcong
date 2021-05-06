@@ -8,7 +8,7 @@ Age of Empires II, Risk of Rain 2, and Minecraft. I also love to play tennis �
 
 ## 🥇 Main Goals
 
-- Get an internship for Spring 2021
+- Get an internship for Spring 2022
 
 ## 📚 Some Stuff I've Learned
 
