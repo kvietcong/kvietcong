@@ -28,7 +28,6 @@ Adobe Premiere Pro, DaVinci Resolve
 - Learn these programming languages
   - C
   - C++
-  - Go
   - Swift
 - Contribute to the decentralized web (IPFS, DLT, etc.)
 - Learn how to produce music
