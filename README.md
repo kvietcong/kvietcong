@@ -19,7 +19,7 @@ Jupyter Notebooks/Google Collabs, NumPy
 - **💾 SQL/NoSQL:** PostgreSQL, SQLite, SQL Server, MongoDB
 - **☕ Java:** The quintessential Computer Science language for College
 - **⚙ Others**
-  - **⚛ Languages:** Haskell, Lua, HTML/CSS, Rust
+  - **⚛ Languages:** Haskell, Lua, HTML/CSS, Rust, R
   - **⚡ Technologies:** AWS hosting, Firebase, Bootstrap, 3DS Max,
 Adobe Premiere Pro, DaVinci Resolve
 
