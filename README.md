@@ -29,6 +29,7 @@ Adobe Premiere Pro, DaVinci Resolve
   - C
   - C++
   - Swift
+  - Dart
 - Contribute to the decentralized web (IPFS, DLT, etc.)
 - Learn how to produce music
 - Learn how to draw
