@@ -8,7 +8,7 @@ Age of Empires II, Risk of Rain 2, and Minecraft. I also enjoy listening to the 
 Fridman and Huberman Lab Podcasts.
 
 ## 🥇 Main Goals
-- Get an internship for Spring and Summer 2022
+- Get an internship for Spring and Summer 2022 💼
 - Graduate from college 🏫
 
 ## 📚 Some Stuff I've Learned
