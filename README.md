@@ -5,7 +5,7 @@ I always want to learn more, whether it be Software Development, Machine Learnin
 or Algorithms and Data Structures. I also like to play tennis 🎾, video games 🎮, and
 listen to good long form podcasts 🎙. Some of my favorite video games are: osu!, CS:GO,
 Age of Empires II, Risk of Rain 2, and Minecraft. I also enjoy listening to the Lex
-Fridman and Huberman Lab Podcasts.
+Fridman, Philosophize This, and Huberman Lab Podcasts.
 
 ## 🥇 Main Goals
 - Get an internship for Spring and Summer 2022 💼
