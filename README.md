@@ -28,6 +28,7 @@ Adobe Premiere Pro, DaVinci Resolve
   - C
   - C++
   - Swift
+  - Lisp
   - Dart
 - Contribute to the decentralized web (IPFS, DLT, etc.)
 - Contribute to the osu! codebase
