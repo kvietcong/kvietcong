@@ -36,7 +36,7 @@ Adobe Premiere Pro, DaVinci Resolve
 - Learn how to draw
 
 ## 🔌 Connect with me
-**Email:** `lecongkhoiviet<at>gmail.com`
+**Email:** `lecongkhoiviet<at>gmail<dot>com`
 
 **LinkedIn**:
 [https://www.linkedin.com/in/kvietcongle/](https://www.linkedin.com/in/kvietcongle/)
