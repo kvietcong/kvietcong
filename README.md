@@ -8,30 +8,28 @@ Age of Empires II, Risk of Rain 2, and Minecraft. I also enjoy listening to the 
 Fridman, Philosophize This, and Huberman Lab Podcasts.
 
 ## 🥇 Main Goals
-- Get an internship for Spring and Summer 2022 💼
 - Graduate from college 🏫
+- Prepare for my Internships 💼
 
 ## 📚 Some Stuff I've Learned
+- **☕📜 JavaScript:** ReactJS, Node/ExpressJS, JQuery
 - **🐍 Python:** SciKitLearn, Pandas, Seaborn/MatPlotLib, 
   Jupyter Notebooks/Google Collabs, NumPy
-- **☕📜 JavaScript:** ReactJS, Node/ExpressJS, JQuery, Svelte
 - **🎼 C#:** Unity3D Game Engine, ASP.NET, Razor Pages
-- **💾 SQL/NoSQL:** PostgreSQL, SQLite, SQL Server, MongoDB
 - **☕ Java:** The quintessential Computer Science language for College
+- **💾 SQL/NoSQL:** PostgreSQL, SQLite, SQL Server, MongoDB
 - **⚙ Others**
-  - **⚛ Languages:** Haskell, Lua, HTML/CSS, Rust, R
+  - **⚛ Languages:** Lua, C, Haskell, Erlang, Clojure, HTML/CSS, Rust, R
   - **⚡ Technologies:** AWS hosting, Firebase, Bootstrap, 3DS Max,
 Adobe Premiere Pro, DaVinci Resolve
 
 ## 📅 Interesting things I will do soon:tm:
-- Learn these programming languages
-  - C
+- Explore these programming languages
   - C++
   - Swift
-  - Lisp
-  - Dart
-- Contribute to the decentralized web (IPFS, DLT, etc.)
+  - Scheme, Common Lisp, or Guile
 - Contribute to the osu! codebase
+- Contribute to the decentralized web (IPFS, DLT, etc.)
 - Learn how to produce music
 - Learn how to draw
 
