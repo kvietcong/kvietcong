@@ -28,8 +28,12 @@ Adobe Premiere Pro, DaVinci Resolve
   - C++
   - Swift
   - Scheme, Common Lisp, or Guile
+- Explore these Web Technologies
+  - Svelte or SolidJS
+  - Tailwind or Sass
+  - WebGPU
 - Contribute to the osu! codebase
-- Contribute to the decentralized web (IPFS, DLT, etc.)
+- Contribute to decentralized tech (IPFS, DLT, etc.)
 - Learn how to produce music
 - Learn how to draw
 
