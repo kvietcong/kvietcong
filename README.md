@@ -27,15 +27,15 @@ Adobe Premiere Pro, DaVinci Resolve
 - Explore these programming languages
   - C++
   - Swift
-  - Lisps like:
+  - A Lisp like:
     - Clojure
-    - Guile
     - Racket
+    - Guile
     - Common Lisp
     - Janet
 - Try out [NixOS](https://nixos.org/), [Fedora Silverblue](https://silverblue.fedoraproject.org/), or [GNU Guix](https://guix.gnu.org/) (Maybe Debian?)
 - Explore these Web Technologies
-  - [Svelte](https://svelte.dev/) or [SolidJS](https://www.solidjs.com/)
+  - [Svelte](https://svelte.dev/), [SolidJS](https://www.solidjs.com/), [HTMX](https://htmx.org/), or [AplineJS](https://alpinejs.dev/)
   - Tailwind or Sass
   - [WebGPU](https://developer.chrome.com/docs/web-platform/webgpu/)
 - Contribute to the osu! codebase
