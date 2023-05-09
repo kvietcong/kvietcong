@@ -1,15 +1,15 @@
 # 👋 Hi there, my name's KV Le
 
 ## 👨🏻‍💻 About me:
-I am a constant wanderer when it comes to learning new things. I strive to dive deep into the topics I get into, often obsessing over things weeks at a time. Unfortunately, this means I often switch around after I burnout 😅 I usually come back though 👍 I really do love learning about new things, especially if they promise to be a new way of thinking about things.
+I am a constant wanderer when it comes to learning new things. I strive to dive deep into the topics I get into, often obsessing over things. Unfortunately, this means I often switch around after I burnout 😅 I usually come back though 👍 I really do love learning about new things, especially if they promise to be a new way of thinking about things.
 
 I also like to play tennis 🎾, play video games 🎮, and listen to good long form podcasts 🎙. Some of my favorite video games are: osu!, CS:GO, Age of Empires II, Risk of Rain 2, and Minecraft. I also enjoy listening to the [Lex Fridman](https://lexfridman.com/podcast/), [Philosophize This](https://www.philosophizethis.org/), and [Huberman Lab](https://hubermanlab.com/) Podcasts.
 
-Finally, if you've read through this page and seen my commit messages, you'll know that emojis are supreme 💯
+Finally, if you've read through this page and seen my commit messages, you'll know that emojis are supreme 💯 (inb4 I try to use a git tool that doesn't handle unicode correctly 🤣)
 
 ## 🥇 Main Goals
-- Graduate from college 🏫
-- Prepare for my Internships 💼
+- Do something cool
+- Finish "Abyss", my custom ergonomic keyboard build, and open source it
 
 ## 📚 Some Stuff I've Learned
 - **☕📜 JavaScript:** ReactJS, Node/ExpressJS, JQuery
@@ -33,16 +33,13 @@ Adobe Premiere Pro, DaVinci Resolve
     - Guile
     - Common Lisp
     - Janet
-- Try out [NixOS](https://nixos.org/), [Fedora Silverblue](https://silverblue.fedoraproject.org/), or [GNU Guix](https://guix.gnu.org/) (Maybe Debian?)
+- Try out an "immutable OS" like [NixOS](https://nixos.org/), [Fedora Silverblue](https://silverblue.fedoraproject.org/), or [GNU Guix](https://guix.gnu.org/)
 - Explore these Web Technologies
-  - [Svelte](https://svelte.dev/), [SolidJS](https://www.solidjs.com/), [HTMX](https://htmx.org/), or [AplineJS](https://alpinejs.dev/)
-  - Tailwind or Sass
   - [WebGPU](https://developer.chrome.com/docs/web-platform/webgpu/)
+  - [SolidJS](https://www.solidjs.com/) and [HTMX](https://htmx.org/)
 - Contribute to the osu! codebase
 - Make a cool Neovim plugin
 - Contribute to decentralized tech (IPFS, DLT, Mastodon, etc.)
-- Learn how to draw
-- Learn how to produce music
 
 ## 🔌 Connect with me
 **Email:** `lecongkhoiviet<at>gmail<dot>com`
