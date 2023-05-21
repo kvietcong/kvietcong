@@ -27,18 +27,15 @@ Adobe Premiere Pro, DaVinci Resolve
 - Explore these programming languages
   - C++
   - Swift
-  - A Lisp like:
+  - One "real" Lisp
     - Clojure
-    - Racket
-    - Guile
+    - Guile/Racket/Scheme
     - Common Lisp
-    - Janet
 - Try out an "immutable OS" like [NixOS](https://nixos.org/), [Fedora Silverblue](https://silverblue.fedoraproject.org/), or [GNU Guix](https://guix.gnu.org/)
 - Explore these Web Technologies
   - [WebGPU](https://developer.chrome.com/docs/web-platform/webgpu/)
   - [SolidJS](https://www.solidjs.com/) and [HTMX](https://htmx.org/)
 - Contribute to the osu! codebase
-- Make a cool Neovim plugin
 - Contribute to decentralized tech (IPFS, DLT, Mastodon, etc.)
 
 ## 🔌 Connect with me
