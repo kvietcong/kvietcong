@@ -10,6 +10,7 @@ Finally, if you've read through this page and seen my commit messages, you'll kn
 ## 🥇 Main Goals
 - Do something cool
 - Finish "Abyss", my custom ergonomic keyboard build, and open source it
+- Find a job
 
 ## 📚 Some Stuff I've Learned
 - **☕📜 JavaScript:** ReactJS, Node/ExpressJS, JQuery
