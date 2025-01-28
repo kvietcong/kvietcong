@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 About me:
 I am a constant wanderer when it comes to learning new things. I strive to dive deep into the topics I get into, often obsessing over things. Unfortunately, this means I often switch around after I burnout 😅 I usually come back though 👍 I really do love learning about new things, especially if they promise to be a new way of thinking about things.
 
-I also like to play tennis 🎾, play video games 🎮, and listen to good long form podcasts 🎙. Some of my favorite video games are: osu!, CS:GO, Age of Empires II, Risk of Rain 2, and Minecraft.
+I also like to play tennis 🎾, play video games 🎮, and listen to good long form podcasts 🎙. Some of my favorite video games are: osu!, Valorant, Age of Empires II, Risk of Rain 2, and Minecraft.
 
 Finally, if you've read through this page and seen my commit messages, you'll know that emojis are supreme 💯 (inb4 I try to use a git tool that doesn't handle unicode correctly 🤣)
 
