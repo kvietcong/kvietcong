@@ -24,7 +24,7 @@ Finally, if you've read through this page and seen my commit messages, you'll kn
   - **⚡ Technologies:** AWS hosting, Firebase, Bootstrap, 3DS Max,
 Adobe Premiere Pro, DaVinci Resolve
 
-## 📅 Interesting things I will do soon:tm:
+## 📅 Interesting things I will do soon :tm:
 - Explore these programming languages
   - C++
   - Swift
